@@ -2,8 +2,11 @@
 Introduction
 =============
 
-This github repo will contain different kernel modules that i have written myslef to learn more about the linux kernel.
+This github repo will contain different kernel modules that 
+i have written to learn more about linux.
 
-The projects are highly inspired by The Linux Kernel Module Programming Guide 
-link: https://sysprog21.github.io/lkmpg/
+These code are from `The Linux Kernel Module Programming Guide`
+link: <a href="https://sysprog21.github.io/lkmpg/">pdf</a>
+
+note: currently codes are messy.
 </pre>
