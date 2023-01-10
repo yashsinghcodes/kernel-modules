@@ -1,0 +1,1 @@
+cmd_/home/darksoul/code/kernel-modules/hello-world/Module.symvers := sed 's/\.ko$$/\.o/' /home/darksoul/code/kernel-modules/hello-world/modules.order | scripts/mod/modpost -m -a  -o /home/darksoul/code/kernel-modules/hello-world/Module.symvers -e -i Module.symvers   -T -

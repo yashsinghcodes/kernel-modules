@@ -1,0 +1,1 @@
+cmd_/home/darksoul/code/kernel-modules/hello-world/modules.order := {   echo /home/darksoul/code/kernel-modules/hello-world/hello-1.ko;   echo /home/darksoul/code/kernel-modules/hello-world/hello-2.ko; :; } | awk '!x[$$0]++' - > /home/darksoul/code/kernel-modules/hello-world/modules.order

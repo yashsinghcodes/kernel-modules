@@ -1,0 +1,1 @@
+cmd_/home/darksoul/code/kernel-modules/hello-world/hello-2.mod := { echo  /home/darksoul/code/kernel-modules/hello-world/hello-2.o;  echo; } > /home/darksoul/code/kernel-modules/hello-world/hello-2.mod
